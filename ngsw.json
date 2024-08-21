@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1724245616497,
-  "index": "/index.html",
+  "timestamp": 1724245693451,
+  "index": "/calenglar/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-S3TCT4YB.js",
-        "/polyfills-SCHOHYNV.js",
-        "/styles-BDDW3PLT.css"
+        "/calenglar/favicon.ico",
+        "/calenglar/index.html",
+        "/calenglar/main-S3TCT4YB.js",
+        "/calenglar/polyfills-SCHOHYNV.js",
+        "/calenglar/styles-BDDW3PLT.css"
       ],
       "patterns": []
     },
@@ -32,11 +32,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
-    "/index.html": "2389ae0e313e6eb0323e3697bebe1b02cb291822",
-    "/main-S3TCT4YB.js": "80c7cd0c4393f51e672faa2d529803c96de41c1d",
-    "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
-    "/styles-BDDW3PLT.css": "15ddc5c0cceab5971ce73e33c7edd9e7b2454bbd"
+    "/calenglar/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "/calenglar/index.html": "da4fa6a3376da0e21d2123502ee7ef18cd6b3695",
+    "/calenglar/main-S3TCT4YB.js": "80c7cd0c4393f51e672faa2d529803c96de41c1d",
+    "/calenglar/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/calenglar/styles-BDDW3PLT.css": "15ddc5c0cceab5971ce73e33c7edd9e7b2454bbd"
   },
   "navigationUrls": [
     {
